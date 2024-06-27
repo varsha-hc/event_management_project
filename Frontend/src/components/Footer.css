@@ -1,0 +1,24 @@
+.footer{  
+    width: 100%;
+    font-size: 14px;
+    background-color: rgb(34, 30, 30);
+    color: white;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 1%;
+  }
+  .fListItem{
+    margin-bottom: 10px;
+    cursor: pointer;
+    font-size: medium;
+    font-style: sans blue;
+  }
+  .lstyle{
+    text-decoration: none;
+    color: white;
+  }
+
+  .social-icon {
+    margin-right: 10px; 
+  }
+  
